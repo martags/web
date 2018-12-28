@@ -1,0 +1,42 @@
+h3{
+
+  font-style: oblique;
+  font-family: monospace;
+  color:darkblue;
+  font-size: 40;
+}
+
+body{
+  background-color: lightblue;
+}
+
+header{
+  background-color: yellow;
+}
+
+#carousel{
+  width:700px;
+  height:400px;
+}
+.jumbotron{
+  background-image: url("../madridtorres.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
+.fotos{
+  width: 200px;
+  height:200px;
+}
+h4{
+  font-family: monospace;
+}
+
+.fondo{
+  background-color: #FFF8D8;
+}
+
+.size-img{
+  width: 300px;
+  height:300px;
+}
